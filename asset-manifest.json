@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/technobits_test/static/css/main.c6fdf85a.css",
+    "main.js": "/technobits_test/static/js/main.4503dc47.js",
+    "static/media/img2.jpg": "/technobits_test/static/media/img2.2a39f43f9d7381289306.jpg",
+    "index.html": "/technobits_test/index.html",
+    "main.c6fdf85a.css.map": "/technobits_test/static/css/main.c6fdf85a.css.map",
+    "main.4503dc47.js.map": "/technobits_test/static/js/main.4503dc47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6fdf85a.css",
+    "static/js/main.4503dc47.js"
+  ]
+}
