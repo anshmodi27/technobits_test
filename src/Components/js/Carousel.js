@@ -32,7 +32,7 @@ const Carousel = () => {
         </div>
         <div className="carousel-inner">
           <div className="carousel-item active">
-            <img src="./images/img1.jpg" className="d-block w-100" alt="..." />
+            <img src="/Users/anshmodi27/Documents/Projects/technobits/public/Images/img1.jpg" className="d-block w-100" alt="..." />
             <div className="carousel-caption d-flex flex-column justify-content-center h-100">
               <h5>First slide label</h5>
               <p>
@@ -41,7 +41,7 @@ const Carousel = () => {
             </div>
           </div>
           <div className="carousel-item">
-            <img src="./images/img2.jpg" className="d-block w-100" alt="..." />
+            <img src="/Users/anshmodi27/Documents/Projects/technobits/public/Images/img2.jpg" className="d-block w-100" alt="..." />
             <div className="carousel-caption d-flex flex-column justify-content-center h-100">
               <h5>Second slide label</h5>
               <p>
@@ -50,7 +50,7 @@ const Carousel = () => {
             </div>
           </div>
           <div className="carousel-item">
-            <img src="./images/img3.jpg" className="d-block w-100" alt="..." />
+            <img src="/Users/anshmodi27/Documents/Projects/technobits/public/Images/img3.jpg" className="d-block w-100" alt="..." />
             <div className="carousel-caption d-flex flex-column justify-content-center h-100">
               <h5>Third slide label</h5>
               <p>
